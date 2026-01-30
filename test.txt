@@ -5,5 +5,5 @@ This file is for testing GitHub webhooks.
 ## Counter
 Edit the counter below to create test commits:
 
-Counter: 2
+Counter: 3
 
